@@ -1,0 +1,13 @@
+name = "Exemplo"
+uuid = "d9a57fe1-cbf9-4b96-aef3-ac174740e79a"
+authors = ["Carolina Martins"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
