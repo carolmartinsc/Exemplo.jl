@@ -1,1 +1,1 @@
-minha_funcao(x,y) = x+y
+soma(x,y) = x+y
