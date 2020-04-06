@@ -7,5 +7,7 @@ using Test
 @testset "Exemplo.jl" begin
     @test soma(2,3) == 5
     @test soma(9,1) == 10
-    @test soma(5,3) == 8
+    @test multiplicação(2,3) == 6
 end
+
+
